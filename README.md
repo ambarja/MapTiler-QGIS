@@ -4,30 +4,30 @@
 ## Maptiler plugin instalation
 <p align="center">
  <a>
- <img src='resources/plugin_1.png' width=450>
+ <img src='resources/plugin_1.png'>
  </a>
 </p>
 
-## Main configuration of the Maptiler plugin 
+## Main configuration of the Maptiler plugin  
 
 <p align='center'>
- <a align='left'>
- <img src='resources/plugin_2.png' width=400>
+ <a >
+ <img src='resources/plugin_2.png'>
  </a>
- <a align="rigth">
- <img src='resources/plugin_3.png' width=400>
+ <a>
+ <img src='resources/plugin_3.png'>
  </a>
- <a align='left'>
-  <img src='resources/plugin_4.png' width=400>
+ <a>
+  <img src='resources/plugin_4.png'>
  </a>
-  <a align="rigth">
-  <img src='resources/plugin_5.png' width=400>
+  <a>
+  <img src='resources/plugin_5.png'>
  </a>
- <a align='left'>
-  <img src='resources/plugin_6.png' width=400>
+ <a>
+  <img src='resources/plugin_6.png'>
  </a>
- <a align="rigth">
-  <img src='resources/plugin_7.png' width=400>
+ <a>
+  <img src=''>
  </a>
 </p>
 
