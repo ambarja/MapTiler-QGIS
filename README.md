@@ -10,24 +10,24 @@
 
 ## Main configuration of the Maptiler plugin 
 
-<p>
+<p align='center'>
  <a align='left'>
- <img src='resources/plugin_2.png' width=350>
+ <img src='resources/plugin_2.png' width=400>
  </a>
  <a align="rigth">
- <img src='resources/plugin_3.png' width=350>
+ <img src='resources/plugin_3.png' width=400>
  </a>
  <a align='left'>
-  <img src='resources/plugin_4.png' width=350>
+  <img src='resources/plugin_4.png' width=400>
  </a>
   <a align="rigth">
-  <img src='resources/plugin_5.png' width=350>
+  <img src='resources/plugin_5.png' width=400>
  </a>
  <a align='left'>
-  <img src='resources/plugin_6.png' width=350>
+  <img src='resources/plugin_6.png' width=400>
  </a>
  <a align="rigth">
-  <img src='resources/plugin_7.png' width=350>
+  <img src='resources/plugin_7.png' width=400>
  </a>
 </p>
 
