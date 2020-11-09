@@ -1,4 +1,3 @@
-
 # MapTiler-QGIS
 <p align="center">
  <a>
@@ -30,9 +29,6 @@
  </a>
  <a>
   <img src='resources/plugin_6.png'>
- </a>
- <a>
-  <img src=''>
  </a>
 </p>
 
