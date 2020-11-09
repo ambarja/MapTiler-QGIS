@@ -1,5 +1,10 @@
-# MapTiler-QGIS
 
+# MapTiler-QGIS
+<p align="center">
+ <a>
+ <img src='resources/maptiler_qgis.png' height=80>
+ </a>
+</p>
 
 ## Maptiler plugin instalation
 <p align="center">
